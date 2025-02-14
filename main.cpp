@@ -3,10 +3,6 @@
 #include <string>
 #include <stdexcept>
 
-/*
-Nome: [Bruno Mendes Bauso Diniz Saraiva] Nome: [Victor do Nascimento Barbosa] Nome: [Felipe Julien Rocha Pinho]
-Numero: [2185932] Numero: [2228782] Numero: [2241480]*/
-
 // Constantes para os caracteres de densidade e o tamanho da densidade
 const char* CARACTERES_DENSIDADE = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/|()1{}[]?-_+~<>i!lI;:,^`.";
 const int TAMANHO_DENSIDADE = 69; // Número de caracteres na string acima
